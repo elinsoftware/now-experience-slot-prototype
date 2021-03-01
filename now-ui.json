@@ -1,7 +1,6 @@
 {
 	"components": {
 	    "elsr-slots-prototype": {
-	        "innerComponents": [],
 			"uiBuilder": {
 				"associatedTypes": ["global.core", "global.landing-page"],
 				"label": "Slots and Actions prototype",
