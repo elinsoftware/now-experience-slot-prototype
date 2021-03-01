@@ -1,0 +1,27 @@
+{
+	"components": {
+	    "elsr-slots-prototype": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Slots and Actions prototype",
+				"icon": "document-outline",
+				"description": "A description of my component",
+				"category": "primitives"
+			},
+			"actions": [
+				{
+					"description": "Dispatched internally",
+					"label": "Internal trigger",
+					"name": "MY_EVENT",
+					"payload": []
+				}
+			  ],
+			"slots": [
+				"end",
+				"start"
+			]
+	    }
+	},
+	"scopeName": "x_elsr_xlabs_slo_0"
+}
