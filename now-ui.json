@@ -13,7 +13,7 @@
 				{
 					"description": "Dispatched internally",
 					"label": "Internal trigger",
-					"name": "MY_EVENT",
+					"action": "MY_EVENT",
 					"payload": []
 				}
 			  ],
